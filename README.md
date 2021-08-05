@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"><img src="https://picsum.photos/200/300" alt="pikwizard"></a>
+  <a href="#"><img src="https://picsum.photos/300/200?blur=2&random=1" alt="pikwizard"></a>
 </p>
 <p align="center">
     <em>An image downloader for https://pikwizard.com using Selenium. Download royalty free and safe for commercial use images, with no attribution required!</em>
