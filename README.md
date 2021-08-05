@@ -1,20 +1,10 @@
-
-
-
 <p align="center">
-  <a href="#"><img src="https://pikwizard.com/img/pw-logo-white.png" alt="pikwizard"></a>
+  <a href="#"><img src="https://picsum.photos/200/300" alt="pikwizard"></a>
 </p>
 <p align="center">
     <em>An image downloader for https://pikwizard.com using Selenium. Download royalty free and safe for commercial use images, with no attribution required!</em>
 </p>
-<p align="center">
-<a href="https://pypi.org/project/audioperm/" target="_blank">
-    <img src="https://img.shields.io/pypi/v/audioperm?color=%2334D058&label=pypi%20package" alt="Package version">
-</a>
-<a href="https://colab.research.google.com/github/zabir-nabil/audioperm/blob/main/notebooks/audioperm_demo.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-</p>
+
 
 ---
 ### pikwizard-image-downloader
